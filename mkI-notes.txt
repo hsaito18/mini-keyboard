@@ -1,0 +1,10 @@
+Some notes and required changes for the next version of the hs-mini keyboard:
+
+Fix crystal footprint on the PCB.
+Flip keyboard footprints on the PCB so they can be inserted on the back.
+Add 22R resistors after the D+ and D- pins connecting to the USB-C receptacle.
+Make sure both VCC pads on the USB-C receptacle are actually connected to VCC mesh.
+Make sure both Ground pads on the crystal are actually connected to GND mesh.
+Add some sort of title/text on the PCB just to make it look nice.
+Try and find a smaller switch for the reset switch.
+
