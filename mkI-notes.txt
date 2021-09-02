@@ -7,4 +7,5 @@ Make sure both VCC pads on the USB-C receptacle are actually connected to VCC me
 Make sure both Ground pads on the crystal are actually connected to GND mesh.
 Add some sort of title/text on the PCB just to make it look nice.
 Try and find a smaller switch for the reset switch.
+Add between VBUS on USB-C and VCC.
 
