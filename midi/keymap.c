@@ -14,7 +14,7 @@ enum control_change_keycodes {
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     LAYOUT_ortho_4x4(
-        MI_TRNSD, MI_TRNSU,   MI_OCTD,   MI_OCTU,
+        KC_R, KC_E,   KC_W,   KC_Q,
         MI_B, MI_Bb,   MI_A,   MI_Ab,
         MI_G, MI_Gb,   MI_F,   MI_E,
         MI_Eb, MI_D, MI_Db, MI_C
