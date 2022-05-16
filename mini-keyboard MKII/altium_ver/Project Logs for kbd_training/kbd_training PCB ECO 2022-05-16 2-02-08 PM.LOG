@@ -1,0 +1,51 @@
+Added Component: Designator=U1(QFP80P1600X1600X120-64N)
+Add component (AddParameter): Name = "Case/Package"; Value = "TQFP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Microcontrollers"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.farnell.com/datasheets/2048476.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.farnell.com/datasheets/2048476.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/7593S.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ww1.microchip.com/downloads/en/DeviceDoc/7593S.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "AT90USB1286-AU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=10.81000, 10=10.81000, 25=9.92000, 50=9.92000, 90=9.72000, 100=9.72000, 1000=9.72000, 10000=9.72000 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "556-AT90USB1286-AU"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-A1-B12
+Add Pin To Net: Unknown Pin: Pin J1-A4-B9
+Add Pin To Net: Unknown Pin: Pin J1-B1-A12
+Add Pin To Net: Unknown Pin: Pin J1-B4-A9
+Add Pin To Net: Unknown Pin: Pin SW1-1
+Add Pin To Net: Unknown Pin: Pin SW1-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=NetR3_2 Pin=U1-4
+Added Pin To Net: NetName=NetR2_2 Pin=U1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Pin To Net: NetName=NetC3_2 Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=NetR1_2 Pin=U1-20
+Added Pin To Net: NetName=VCC Pin=U1-21
+Added Pin To Net: NetName=GND Pin=U1-22
+Added Pin To Net: NetName=NetC1_1 Pin=U1-23
+Added Pin To Net: NetName=NetC1_1 Pin=U1-24
+Added Pin To Net: NetName=NetR4_2 Pin=U1-43
+Added Pin To Net: NetName=VCC Pin=U1-52
+Added Pin To Net: NetName=GND Pin=U1-53
+Added Pin To Net: NetName=col3 Pin=U1-54
+Added Pin To Net: NetName=col2 Pin=U1-55
+Added Pin To Net: NetName=col1 Pin=U1-56
+Added Pin To Net: NetName=col0 Pin=U1-57
+Added Pin To Net: NetName=row3 Pin=U1-58
+Added Pin To Net: NetName=row2 Pin=U1-59
+Added Pin To Net: NetName=row1 Pin=U1-60
+Added Pin To Net: NetName=row0 Pin=U1-61
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=VCC Pin=U1-64
+Add Class Member: Failed to add class member : Component SW1 NCA2
+Added Member To Class: ClassName=kbd_training Member=Component U1 AT90USB1286-AU
