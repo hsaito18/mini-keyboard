@@ -1,16 +1,10 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\HenriqueSaito\Documents\Altium\Projects\mini-keyboard\mini-keyboard MKII\altium_ver\kbd_training.PcbDoc
 Date     : 2022-06-09
-Time     : 4:06:01 PM
+Time     : 4:57:54 PM
 
 Processing Rule : Clearance Constraint (Gap=0.254mm) (All),(All)
-   Violation between Clearance Constraint: (0.132mm < 0.2mm) Between Pad J1-A6(119.243mm,95.934mm) on Bottom Layer And Track (119.1mm,94.7mm)(119.743mm,95.343mm) on Bottom Layer 
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad J1-S3(114.383mm,100.614mm) on Bottom Layer And Track (57mm,101.6mm)(131mm,101.6mm) on Keep-Out Layer 
-   Violation between Clearance Constraint: (Collision < 0.2mm) Between Pad J1-S4(124.603mm,100.614mm) on Bottom Layer And Track (57mm,101.6mm)(131mm,101.6mm) on Keep-Out Layer 
-   Violation between Clearance Constraint: (0.181mm < 0.2mm) Between Pad U1-53(94.586mm,94.9mm) on Bottom Layer And Track (93.207mm,94.77mm)(93.733mm,94.244mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.181mm < 0.2mm) Between Pad U1-53(94.586mm,94.9mm) on Bottom Layer And Track (93.733mm,94.244mm)(94.442mm,94.244mm) on Bottom Layer 
-   Violation between Clearance Constraint: (0.175mm < 0.2mm) Between Pad U1-56(94.586mm,92.5mm) on Bottom Layer And Track (94.686mm,91.8mm)(95.492mm,91.8mm) on Bottom Layer 
-Rule Violations :6
+Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
 Rule Violations :0
@@ -40,12 +34,7 @@ Processing Rule : Silk To Solder Mask (Clearance=0.1mm) (IsPad),(All)
 Rule Violations :0
 
 Processing Rule : Silk to Silk (Clearance=0.15mm) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (0.111mm < 0.15mm) Between Text "F2" (124.962mm,93.77mm) on Bottom Overlay And Track (123.1mm,91.225mm)(123.1mm,94.025mm) on Bottom Overlay Silk Text to Silk Clearance [0.111mm]
-   Violation between Silk To Silk Clearance Constraint: (0.116mm < 0.15mm) Between Text "R3" (117.92mm,83.188mm) on Bottom Overlay And Track (116.2mm,85.05mm)(116.2mm,88.25mm) on Bottom Overlay Silk Text to Silk Clearance [0.116mm]
-   Violation between Silk To Silk Clearance Constraint: (0.111mm < 0.15mm) Between Text "R3" (117.92mm,83.188mm) on Bottom Overlay And Track (116.2mm,85.05mm)(118.2mm,85.05mm) on Bottom Overlay Silk Text to Silk Clearance [0.111mm]
-   Violation between Silk To Silk Clearance Constraint: (0.132mm < 0.15mm) Between Text "U1" (95.591mm,99.638mm) on Bottom Overlay And Track (95.95mm,100.5mm)(99.15mm,100.5mm) on Bottom Overlay Silk Text to Silk Clearance [0.132mm]
-   Violation between Silk To Silk Clearance Constraint: (0.132mm < 0.15mm) Between Text "U1" (95.591mm,99.638mm) on Bottom Overlay And Track (95.95mm,98.5mm)(95.95mm,100.5mm) on Bottom Overlay Silk Text to Silk Clearance [0.132mm]
-Rule Violations :5
+Rule Violations :0
 
 Processing Rule : Net Antennae (Tolerance=0mm) (All)
 Rule Violations :0
@@ -54,6 +43,6 @@ Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Al
 Rule Violations :0
 
 
-Violations Detected : 11
+Violations Detected : 0
 Waived Violations : 0
 Time Elapsed        : 00:00:01
