@@ -1,0 +1,9 @@
+10k res
+22 res
+5.1k res
+USB-C
+3 diodes
+1 uF cap
+~4 0.1uF cap
+22pF cap
+
