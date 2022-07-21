@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: kbd_training.GBR   2022-06-10  10:43:49 AM
+Gerber File Extension Report For: kbd_training.GBR   2022-06-10  11:45:27 AM
 ------------------------------------------------------------------------------------------
 
 
@@ -14,5 +14,17 @@ Layer Extension     Layer Description
 .gbr                Bottom Solder                           
 .gbr                Bottom Paste                            
 .gbr                Bottom Overlay                          
+.gbr                Mechanical 1                            
+.gbr                Top 3D Body                             
+.gbr                Bottom 3D Body                          
+.gbr                Top Designator                          
+.gbr                Bottom Designator                       
+.gbr                Mechanical 13                           
+.gbr                Mechanical 15                           
+.gbr                Keep-Out Layer                          
+.gbr                Top Pad Master                          
+.gbr                Bottom Pad Master                       
+.gbr                Drill Drawing                           
+.gbr                Drill Guide                             
 .gbr                Profile                                 
 ------------------------------------------------------------------------------------------

@@ -1,20 +1,10 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [kbd_training.PrjPcb]
-   Generated File[kbd_training_Legend_Top.gbr]
-   Generated File[kbd_training_Paste_Top.gbr]
-   Generated File[kbd_training_Soldermask_Top.gbr]
-   Generated File[kbd_training_Copper_Signal_Top.gbr]
-   Generated File[kbd_training_Copper_Signal_Bot.gbr]
-   Generated File[kbd_training_Soldermask_Bot.gbr]
-   Generated File[kbd_training_Paste_Bot.gbr]
-   Generated File[kbd_training_Legend_Bot.gbr]
-   Generated File[kbd_training_Profile.gbr]
-   Generated File[kbd_training.EXTREP]
-   Generated File[kbd_training.REP]
+Output: Test Point Report
+Type  : Test Points
+From  : PCB Document [kbd_training.PcbDoc]
+   Generated File[Fabrication Testpoint Report for kbd_training.csv]
 
 
-Files Generated   : 11
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 10:43:49 AM On 2022-06-10
+Finished Output Generation At 11:53:17 AM On 2022-06-10

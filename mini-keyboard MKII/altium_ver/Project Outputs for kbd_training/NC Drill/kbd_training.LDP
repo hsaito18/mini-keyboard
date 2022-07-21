@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\HenriqueSaito\Documents\Altium\Projects\mini-keyboard\mini-keyboard MKII\altium_ver\kbd_training.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=kbd_training-plated.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=kbd_training-nonplated.txt|DrillLayers=gtl,gbl
